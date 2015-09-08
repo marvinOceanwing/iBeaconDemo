@@ -17,16 +17,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DmyXMFZlQmxFDWTipjXrAEWK7B0=
+			TuutyQNQGm0FnhP7VJlW+bOKFmY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
+		<key>Base.lproj/Main.storyboardc/5QZ-QA-HYo-view-T9y-7L-B4p.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RdYbaoHTtyIuuzJzMx2ZxViQMx4=
+			geAM8OsvDAD89CRLs7xR6rdCnf4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -44,7 +44,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sSGKefBOVwFMxQKdvtfR6aUM7Ns=
+			JKfwNfgKe3IW0re309wPibSjgyY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -53,11 +53,54 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			msfjOlD1ISVwnFLcZqBq/1Mr+ns=
+			qT4z9hFJSOL2R3rKoDgAQeP3FBM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png</key>
+		<data>
+		JnWKFwDxiQg+P5BZj+eUUpuMa5E=
+		</data>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png</key>
+		<data>
+		8bXoFgM9W8yUsfwwhyu04s5FFi0=
+		</data>
+		<key>IQKeyboardManager.bundle/de.lproj/IQKeyboardManager.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XAMtfCBPAbgSPBoutKHQwStCT48=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IQKeyboardManager.bundle/en.lproj/IQKeyboardManager.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sMbInXsoKAUK7+dZ1n/0jF84h5o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IQKeyboardManager.bundle/es.lproj/IQKeyboardManager.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vrhRgiujgh91e57LnlUs3rWBD9E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IQKeyboardManager.bundle/zh-Hans/IQKeyboardManager.strings</key>
+		<data>
+		0dhsbGPLjTzRqQAqEGZBhe3AsdM=
+		</data>
+		<key>IQKeyboardManager.bundle/zh-Hant/IQKeyboardManager.strings</key>
+		<data>
+		549Z0CX5jIn+3EYVDi3nSNNKeRY=
+		</data>
 		<key>Info.plist</key>
 		<data>
 		lGqGkjHWNuSA9HyxIuyXeoJNT/I=
@@ -68,7 +111,7 @@
 		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		+IJ0MItpYR2Gpb9FNjIF1UOTaso=
+		Vyyksa3e90mprgPlXdlA+3aOA6c=
 		</data>
 	</dict>
 	<key>files2</key>
@@ -86,16 +129,16 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			DmyXMFZlQmxFDWTipjXrAEWK7B0=
+			TuutyQNQGm0FnhP7VJlW+bOKFmY=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
-		<key>Base.lproj/Main.storyboardc/BYZ-38-t0r-view-8bC-Xf-vdC.nib</key>
+		<key>Base.lproj/Main.storyboardc/5QZ-QA-HYo-view-T9y-7L-B4p.nib</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			RdYbaoHTtyIuuzJzMx2ZxViQMx4=
+			geAM8OsvDAD89CRLs7xR6rdCnf4=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -113,7 +156,7 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			sSGKefBOVwFMxQKdvtfR6aUM7Ns=
+			JKfwNfgKe3IW0re309wPibSjgyY=
 			</data>
 			<key>optional</key>
 			<true/>
@@ -122,14 +165,57 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			msfjOlD1ISVwnFLcZqBq/1Mr+ns=
+			qT4z9hFJSOL2R3rKoDgAQeP3FBM=
 			</data>
 			<key>optional</key>
 			<true/>
 		</dict>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowLeft@2x.png</key>
+		<data>
+		JnWKFwDxiQg+P5BZj+eUUpuMa5E=
+		</data>
+		<key>IQKeyboardManager.bundle/IQButtonBarArrowRight@2x.png</key>
+		<data>
+		8bXoFgM9W8yUsfwwhyu04s5FFi0=
+		</data>
+		<key>IQKeyboardManager.bundle/de.lproj/IQKeyboardManager.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			XAMtfCBPAbgSPBoutKHQwStCT48=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IQKeyboardManager.bundle/en.lproj/IQKeyboardManager.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			sMbInXsoKAUK7+dZ1n/0jF84h5o=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IQKeyboardManager.bundle/es.lproj/IQKeyboardManager.strings</key>
+		<dict>
+			<key>hash</key>
+			<data>
+			vrhRgiujgh91e57LnlUs3rWBD9E=
+			</data>
+			<key>optional</key>
+			<true/>
+		</dict>
+		<key>IQKeyboardManager.bundle/zh-Hans/IQKeyboardManager.strings</key>
+		<data>
+		0dhsbGPLjTzRqQAqEGZBhe3AsdM=
+		</data>
+		<key>IQKeyboardManager.bundle/zh-Hant/IQKeyboardManager.strings</key>
+		<data>
+		549Z0CX5jIn+3EYVDi3nSNNKeRY=
+		</data>
 		<key>embedded.mobileprovision</key>
 		<data>
-		+IJ0MItpYR2Gpb9FNjIF1UOTaso=
+		Vyyksa3e90mprgPlXdlA+3aOA6c=
 		</data>
 	</dict>
 	<key>rules</key>
